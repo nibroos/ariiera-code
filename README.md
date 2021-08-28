@@ -39,7 +39,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br />
+<br />
 
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -59,13 +61,12 @@
 
 </details>
 
-<br />
-
+<!-- 
 ### Pinned Repositories
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariiera-code&repo=laboratorium-app&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariiera-code&repo=shoppingskuyyy&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariiera-code&repo=sewa-buku&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariiera-code&repo=ariiera-code.github.io&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ariiera-code&repo=ariiera-code.github.io&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [website]: https://ariiera-code.github.io/
 [instagram]: https://instagram.com/ariiera
