@@ -1,5 +1,3 @@
-### Hi there, I'm Nibros - aka [ariiera-code][website] 👋
-
 ## I'm a Full Stack Web Developer, and UI/UX Designer.
 
 - 🌱 I’m currently learning everything
