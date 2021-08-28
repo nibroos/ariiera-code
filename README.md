@@ -57,6 +57,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/ariiera-code/laboratorium-app/pull/1) in [ariiera-code/laboratorium-app](https://github.com/ariiera-code/laboratorium-app)
+2. 💪 Opened PR [#1](https://github.com/ariiera-code/laboratorium-app/pull/1) in [ariiera-code/laboratorium-app](https://github.com/ariiera-code/laboratorium-app)
   <!--END_SECTION:activity-->
 
 </details>
